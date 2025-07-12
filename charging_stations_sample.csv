@@ -1,0 +1,6 @@
+Station_ID,State,City,Operator,No_of_Ports,Connector_Type
+101,Delhi,Delhi,Tata Power,10,CCS2
+102,Maharashtra,Pune,ChargeGrid,15,CHAdeMO
+103,Karnataka,Bangalore,Ather Grid,8,Type2
+104,Tamil Nadu,Coimbatore,Fortum,12,CCS2
+105,Gujarat,Vadodara,Reliance,7,Type2
